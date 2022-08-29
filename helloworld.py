@@ -27,3 +27,17 @@ False
 (10, 20, 30)
 
 () #tupla vacia
+
+# Dictorionary (objetos de js)
+
+{
+    "nombre" : "ryan",
+    "edad": 4
+}
+
+print(type({
+    "lat": 1231233,
+    "long": 323232,
+}))
+
+
